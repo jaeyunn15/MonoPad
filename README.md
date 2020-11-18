@@ -25,15 +25,10 @@
 
 -----
 <image src="https://user-images.githubusercontent.com/55985789/99519696-89b44e00-29d5-11eb-9804-e23de986bb4e.png" width="300" height="130"/>
+
 #### [Click Here. You can download the app here.](https://play.google.com/store/apps/details?id=com.project.monopad) 
 
-____
-## TMDB License
-![image](https://user-images.githubusercontent.com/55985789/99520400-61791f00-29d6-11eb-9a74-c902545cd74b.png)
-
-#### [API Terms of Use](https://www.themoviedb.org/documentation/api/terms-of-use?language=ko-KR)
-
-
+-----
 ## License
 Designed and developed by 2020 team-project-study (MonoPad)
  
@@ -48,3 +43,10 @@ Designed and developed by 2020 team-project-study (MonoPad)
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
  See the License for the specific language governing permissions and
  limitations under the License.
+ 
+ ____
+## TMDB License
+![image](https://user-images.githubusercontent.com/55985789/99520400-61791f00-29d6-11eb-9a74-c902545cd74b.png)
+
+#### [API Terms of Use](https://www.themoviedb.org/documentation/api/terms-of-use?language=ko-KR)
+
